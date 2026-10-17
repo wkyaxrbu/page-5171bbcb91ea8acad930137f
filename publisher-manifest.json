@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "92cdecd3077df343f2751b18",
+  "owner": "wkyaxrbu",
+  "repo": "page-5171bbcb91ea8acad930137f",
+  "title": "BFG加速",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "5171bbcb91ea8acad930137f",
+      "a": "BFG加速",
+      "b": "",
+      "entity": "BFG加速",
+      "brand": "BFG加速",
+      "separator": "",
+      "path": "index.html",
+      "hash": "223204fd586e4b765ad02fc07886c8bb23bd96ec3a25a0001c4633bd9bceb3a9",
+      "content": {
+        "keyword1": "BFG加速",
+        "keyword2": "",
+        "primary_entity": "BFG加速",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "BFG加速为多平台环境提供规范化的中继接入服务。本文档列明当前可供订阅的规格指标、协议支持范围、客户端配置步骤及调度策略说明。",
+          "AI_DESCRIPTION": "BFG加速为多平台环境提供规范化的中继接入服务。本文档列明当前可供订阅的规格指标、协议支持范围、客户端配置步骤及调度策略说明。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n* {box-sizing: border-box;margin: 0;padding: 0}\nbody {background-color: #0c0d10;color: #e5e9f0;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif;line-height: 1.6;font-size: 14px;-webkit-font-smoothing: antialiased}\na {color: inherit;text-decoration: none}\n.header-bar {border-bottom: 1px solid #1c202a;padding: 0 32px;height: 48px;display: flex;align-items: center;justify-content: space-between;background-color: #0c0d10}\n.brand-mark {font-weight: 600;font-size: 13px;letter-spacing: 0.1em;color: #10f274}\n.header-nav {display: flex;gap: 24px}\n.header-nav a {font-size: 12px;color: #8b95a5;transition: color 0.15s ease}\n.header-nav a:hover {color: #10f274}\nmain {max-width: 1200px;margin: 0 auto;padding: 0 32px 96px 32px}\n.hero {padding: 104px 0 120px 0;display: grid;grid-template-columns: 460px 1fr;align-items: start}\n.hero-column {display: flex;flex-direction: column;gap: 24px}\n.tagline {font-size: 11px;letter-spacing: 0.18em;text-transform: uppercase;color: #10f274}\nh1 {font-size: 32px;font-weight: 500;line-height: 1.25;color: #ffffff;letter-spacing: -0.02em}\n.hero-text {font-size: 14px;color: #8b95a5;line-height: 1.7}\n.hero-meta {display: flex;flex-direction: column;gap: 10px;padding-top: 16px;border-top: 1px solid #1c202a;font-size: 12px;color: #667085}\n.meta-row {display: flex;justify-content: space-between}\n.meta-val {color: #d0d7de;font-family: monospace}\n.section-anchor {padding-top: 72px}\n.section-title-wrap {margin-bottom: 40px;border-bottom: 1px solid #1c202a;padding-bottom: 16px}\nh2 {font-size: 18px;font-weight: 500;color: #ffffff;letter-spacing: -0.01em}\n.section-subtitle {font-size: 12px;color: #667085;margin-top: 4px}\n.whitespace-grid {display: grid;grid-template-columns: repeat(3, 1fr);gap: 48px}\n.info-card {padding: 8px 0}\n.info-card h3 {font-size: 14px;font-weight: 500;color: #ffffff;margin-bottom: 12px}\n.info-card p {font-size: 13px;color: #8b95a5;line-height: 1.65}\n.table-wrap {overflow-x: auto;margin-top: 16px}\ntable {width: 100%;border-collapse: collapse;text-align: left;font-size: 13px}\nth {padding: 14px 16px;background-color: #12141a;color: #8b95a5;font-weight: 400;font-size: 12px;border-bottom: 1px solid #1c202a}\ntd {padding: 20px 16px;border-bottom: 1px solid #171a22;color: #c9d1d9;vertical-align: top}\ntr:hover td {background-color: #0f1117}\n.plan-name {font-size: 15px;font-weight: 500;color: #ffffff;display: block;margin-bottom: 4px}\n.plan-badge {display: inline-block;background: rgba(16, 242, 116, 0.1);color: #10f274;font-size: 10px;padding: 2px 6px;margin-top: 4px;font-weight: 400}\n.price-cell {font-family: monospace}\n.price-primary {font-size: 15px;font-weight: 600;color: #ffffff;display: block}\n.price-sub {font-size: 11px;color: #667085;display: block;margin-top: 2px}\n.feature-list {list-style: none;display: flex;flex-direction: column;gap: 6px}\n.feature-list li {font-size: 12px;color: #9aa4b2}\n.feature-list li::before {content: \"— \";color: #484f58}\n.steps-layout {display: grid;grid-template-columns: repeat(4, 1fr);gap: 32px}\n.step-item {padding: 4px 0}\n.step-num {font-family: monospace;font-size: 11px;color: #10f274;margin-bottom: 8px;display: block}\n.step-item h3 {font-size: 14px;font-weight: 500;color: #ffffff;margin-bottom: 8px}\n.step-item p {font-size: 12px;color: #8b95a5;line-height: 1.6}\n.faq-grid {display: grid;grid-template-columns: 1fr 1fr;column-gap: 64px;row-gap: 40px}\n.faq-entry {padding-right: 8px}\n.faq-q {font-size: 14px;font-weight: 500;color: #ffffff;margin-bottom: 10px}\n.faq-a {font-size: 13px;color: #8b95a5;line-height: 1.65}\nfooter {border-top: 1px solid #1c202a;padding: 32px 0;display: flex;justify-content: space-between;align-items: center;font-size: 12px;color: #484f58}\n.footer-status {display: flex;align-items: center;gap: 8px}\n.status-indicator {width: 6px;height: 6px;border-radius: 50%;background-color: #10f274}\n@media (max-width: 900px) {\n  .hero {grid-template-columns: 1fr;padding: 64px 0 64px 0}\n  .whitespace-grid {grid-template-columns: 1fr;gap: 32px}\n  .steps-layout {grid-template-columns: 1fr 1fr;gap: 28px}\n  .faq-grid {grid-template-columns: 1fr;row-gap: 32px}\n}\n@media (max-width: 600px) {\n  .header-bar {padding: 0 20px}\n  main {padding: 0 20px 64px 20px}\n  .steps-layout {grid-template-columns: 1fr}\n  footer {flex-direction: column;align-items: flex-start;gap: 12px}\n}\n</style><header class=\"header-bar\">\n  <div class=\"brand-mark\">BFG ACCEL / 接入调度</div>\n  <nav class=\"header-nav\">\n    <a href=\"#spec\">服务指标</a>\n    <a href=\"#plans\">订阅计划</a>\n    <a href=\"#client\">客户端配置</a>\n    <a href=\"#faq\">常见问题</a>\n  </nav>\n</header>\n\n<main>\n  <section class=\"hero\">\n    <div class=\"hero-column\">\n      <div class=\"tagline\">Specification &amp; Provisioning</div>\n      <h1>BFG加速中继网路接入文档</h1>\n      <p class=\"hero-text\">\n        BFG加速是一套面向多系统终端的加密传输中继方案。本站提供当前批次线路池的分配规约、流量计费区间及订阅链接生成标准。用户需按照系统要求导入对应配置文件以建立连接。\n      </p>\n      <div class=\"hero-meta\">\n        <div class=\"meta-row\">\n          <span>拓扑结构</span>\n          <span class=\"meta-val\">ANYCAST / EDGE ROUTING</span>\n        </div>\n        <div class=\"meta-row\">\n          <span>加密握手</span>\n          <span class=\"meta-val\">CHACHA20-POLY1305 / AES-GCM</span>\n        </div>\n        <div class=\"meta-row\">\n          <span>当前可用性</span>\n          <span class=\"meta-val\">99.82% SLA VERIFIED</span>\n        </div>\n      </div>\n    </div>\n  </section>\n\n  <section class=\"section-anchor\" id=\"spec\">\n    <div class=\"section-title-wrap\">\n      <h2>技术规约说明</h2>\n      <div class=\"section-subtitle\">传输网络采用分布式无状态边缘集群，以下为节点分配策略与运行规范。</div>\n    </div>\n    <div class=\"whitespace-grid\">\n      <article class=\"info-card\">\n        <h3>多重接入协议支持</h3>\n        <p>系统兼容通用订阅格式。协议栈内建分流规则库，数据包根据目的地址自动匹配直接连接或中继代理通道，降低无意义的开销。</p>\n      </article>\n      <article class=\"info-card\">\n        <h3>并发会话管理</h3>\n        <p>每组账号绑定动态设备准入表。当同时在线会话数达到套餐限额时，新发起的心跳握手将进入队列或阻断，以保证已建立流的平稳度。</p>\n      </article>\n      <article class=\"info-card\">\n        <h3>周期重置与结算</h3>\n        <p>流量按自然计费周期结算，到期日零点重置。超出配额后接入速度将降级至基础维持带宽，次月起始日恢复标准调度权重。</p>\n      </article>\n    </div>\n  </section>\n\n  <section class=\"section-anchor\" id=\"plans\">\n    <div class=\"section-title-wrap\">\n      <h2>可用订阅方案对比</h2>\n      <div class=\"section-subtitle\">横向对比不同层级账户的带宽资源池、并发授权数与保障协议。</div>\n    </div>\n    <div class=\"table-wrap\">\n      <table>\n        <thead>\n          <tr>\n            <th>计划级别</th>\n            <th>周期资费</th>\n            <th>传输配额 / 准入</th>\n            <th>包含特性与服务等级</th>\n          </tr>\n        </thead>\n        <tbody>\n          <tr>\n            <td>\n              <span class=\"plan-name\">基础版</span>\n              <span>Entry tier</span>\n            </td>\n            <td class=\"price-cell\">\n              <span class=\"price-primary\">¥15 / 月</span>\n              <span class=\"price-sub\">按年付仅需 ¥150/年</span>\n            </td>\n            <td>\n              <div>100 GB / 月</div>\n              <div>支持 3 台设备同时在线</div>\n            </td>\n            <td>\n              <ul class=\"feature-list\">\n                <li>普通线路节点池接入</li>\n                <li>基础流媒体内容解锁</li>\n                <li>标准工单处理队列</li>\n              </ul>\n            </td>\n          </tr>\n          <tr>\n            <td>\n              <span class=\"plan-name\">旗舰版</span>\n              <span class=\"plan-badge\">RECOMMENDED</span>\n            </td>\n            <td class=\"price-cell\">\n              <span class=\"price-primary\">¥35 / 月</span>\n              <span class=\"price-sub\">按年付仅需 ¥350/年</span>\n            </td>\n            <td>\n              <div>300 GB / 月</div>\n              <div>支持 5 台设备同时在线</div>\n            </td>\n            <td>\n              <ul class=\"feature-list\">\n                <li>IPLC 专线游戏加速优化</li>\n                <li>全节点原生流媒体解锁支持</li>\n                <li>7x24 优先工单通道与实时响应</li>\n              </ul>\n            </td>\n          </tr>\n          <tr>\n            <td>\n              <span class=\"plan-name\">团队版</span>\n              <span>High throughput</span>\n            </td>\n            <td class=\"price-cell\">\n              <span class=\"price-primary\">¥85 / 月</span>\n              <span class=\"price-sub\">按年付仅需 ¥850/年</span>\n            </td>\n            <td>\n              <div>1000 GB / 月</div>\n              <div>支持 20 台设备同时在线</div>\n            </td>\n            <td>\n              <ul class=\"feature-list\">\n                <li>VIP 专属高带宽节点池</li>\n                <li>支持企业及多分支路由定制</li>\n                <li>专属客户经理与部署技术对接</li>\n              </ul>\n            </td>\n          </tr>\n        </tbody>\n      </table>\n    </div>\n  </section>\n\n  <section class=\"section-anchor\" id=\"client\">\n    <div class=\"section-title-wrap\">\n      <h2>客户端接入流程</h2>\n      <div class=\"section-subtitle\">BFG加速不分发带有私有修改的二进制包，推荐使用符合开源规约的通用网络代理工具。</div>\n    </div>\n    <div class=\"steps-layout\">\n      <div class=\"step-item\">\n        <span class=\"step-num\">STEP 01</span>\n        <h3>获取订阅地址</h3>\n        <p>在控制面板完成套餐签约后，复制系统生成的通用订阅 URL。请妥善保存该 Token 串，勿公开泄露。</p>\n      </div>\n      <div class=\"step-item\">\n        <span class=\"step-num\">STEP 02</span>\n        <h3>准备适配核心</h3>\n        <p>支持 Windows、macOS、Linux、Android 与 iOS 平台的通用内核环境。确认宿主机系统已安装最新版本的网络扩展模块。</p>\n      </div>\n      <div class=\"step-item\">\n        <span class=\"step-num\">STEP 03</span>\n        <h3>导入节点清单</h3>\n        <p>将订阅 URL 贴入客户端的远程配置一栏，触发全量节点同步。客户端将自动下载节点延迟数据及路由分流策略。</p>\n      </div>\n      <div class=\"step-item\">\n        <span class=\"step-num\">STEP 04</span>\n        <h3>触发系统代理</h3>\n        <p>选择推荐节点组或手动指定低延迟出口，切换为规则分流模式。连接成功后可通过状态指示灯核对出站 IP。</p>\n      </div>\n    </div>\n  </section>\n\n  <section class=\"section-anchor\" id=\"faq\">\n    <div class=\"section-title-wrap\">\n      <h2>常见问题解答</h2>\n      <div class=\"section-subtitle\">关于连通性排查、计费重置以及并发管制的标准说明。</div>\n    </div>\n    <div class=\"faq-grid\">\n      <div class=\"faq-entry\">\n        <h3 class=\"faq-q\">节点提示超时或连接拒绝应如何自检？</h3>\n        <p class=\"faq-a\">首先核实宿主机的本地系统时间是否与 NTP 服务器保持毫秒级同步，时间漂移超过 90 秒会导致 TLS 握手彻底失败；其次检查订阅地址是否拉取了最新的端口分配表。</p>\n      </div>\n      <div class=\"faq-entry\">\n        <h3 class=\"faq-q\">超出设备同时在线上限会产生什么结果？</h3>\n        <p class=\"faq-a\">系统以最后一次发起通信的心跳为准。若当前会话数大于套餐承载量，最早连接的空闲设备端口会被强制复位，直到活跃连接数回落到限制阈值之内。</p>\n      </div>\n      <div class=\"faq-entry\">\n        <h3 class=\"faq-q\">流量用尽后支持临时叠加扩容吗？</h3>\n        <p class=\"faq-a\">当月周期流量耗尽后，调度系统会终止中继转发。用户可在控制台手动升级更高阶方案，或等待下个账单周期的自动重置任务执行，目前不提供零散临时流量包。</p>\n      </div>\n      <div class=\"faq-entry\">\n        <h3 class=\"faq-q\">为什么游戏加速需要选择旗舰版及以上？</h3>\n        <p class=\"faq-a\">旗舰版与团队版部署了特定定向物理专线通道（IPLC），不经过常规公网国际交换中心路由，能有效避免因公共骨干网抖动引发的高丢包率和瞬时延迟激增。</p>\n      </div>\n    </div>\n  </section>\n</main>\n\n<footer>\n  <div>\n    <div>BFG加速 © 当前文档修订版本 2025.04 / 静态分发节点</div>\n    <div class=\"footer-status\">\n      <span class=\"status-indicator\"></span>\n      <span>网络骨干运行中</span>\n    </div>\n  </div>\n</footer>",
+          "hash": "916449db037d55b706bef0f5fcb60d2744ad7247bb544163efaa3b7bd2986cd6",
+          "seo": {
+            "title": "BFG加速 - 接入规约与数据传输网络服务文档",
+            "keywords": "BFG加速, 传输协议, 网络中继, 订阅配置, 节点规格",
+            "description": "BFG加速为多平台环境提供规范化的中继接入服务。本文档列明当前可供订阅的规格指标、协议支持范围、客户端配置步骤及调度策略说明。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "1950",
+            "hero": "7 窄栏居左配大面积留白",
+            "palette": "1 墨黑配荧光绿",
+            "nav": "1 顶部细横条",
+            "card": "1 无边框仅靠留白分隔",
+            "plans_view": "1 横向对比表格",
+            "faq_view": "1 双栏问答",
+            "tone": "1 冷静克制的说明书口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "cjifz.cn",
+    "host": "p-f84fc95734.cjifz.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "e5dbe9ead2019e9c12ad607dc494476434176e9415ec0bd99ab42db4a5d1a139",
+    "sitemap.xml": "d6925d7aceb75d6e559d6ad4ba93d7198ea7a2d9a4538f458358b63c37c55d96",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "ae013717d591d3059e5965fbe330bf7730aff50125e3e0dce0495abf7de2d11c",
+    "robots.txt": "dd3c4119c28d8b0ae5bbc203d50b8198a726b5817be9616ac164cb61504e7b3c",
+    "1b93e6e7d92331ed00a9d74d97222173.txt": "3a79a891e1a2d54a975331b0fa92688b3a3c15dacfb0af32a831de994feb27de"
+  },
+  "revision": "7a5c560941c87c3884ca8b96ecb0d3f75d897c751ac35cb7cccb4debfbddc446"
+}
